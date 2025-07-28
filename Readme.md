@@ -1,38 +1,44 @@
-### Hi there, I'm Abhishek! 👋
+# 👋 Hi there, I'm Abhishek!
 
-![Cloud Computing & Cybersecurity](https://img.shields.io/badge/Cloud%20Computing-✔️-blue) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-✔️-red) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-✔️-yellow)
-
----
-
-### 🚀 About Me
-
-💡 I am a **passionate developer** who loves to explore new technologies and help others in their learning journey. My primary interests lie in **Cloud Computing** and **Cybersecurity**. 
-
-☁️ I actively work with **Google Cloud Platform (GCP)**, building scalable applications and solving real-world problems using cloud services.
-
-🎓 I had the opportunity to **volunteer as an Arcade Facilitator** for **Google Cloud Arcade**, mentoring and guiding learners through hands-on cloud labs.
-
-🔧 Apart from cloud and security, I enjoy tinkering with new tech stacks and contributing to the developer community.
+[![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Expert-4F46E5?style=for-the-badge&logo=cloud&logoColor=white)](#)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Specialist-E114E5?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Enthusiast-FFCD00?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-- ☁️ **Cloud Platforms:** Google Cloud (GCP), Firebase
-- 🔒 **Security:** Cloud Security, IAM, Network Security
-- 💻 **Programming:** Python, JavaScript
-- ⚡ **DevOps & Tools:** Docker, Terraform, Kubernetes (learning!)
-- 📚 **Databases:** Firestore, SQL, NoSQL
+I'm a **cloud enthusiast and developer** passionate about emerging technology, knowledge sharing, and empowering others. My journey spans both **Cloud Computing** and **Cybersecurity**, with a focus on building robust cloud solutions.
+
+- ☁️ **Primary Focus:** Google Cloud Platform (GCP)—designing scalable and secure architectures.
+- 🎓 **Mentor Experience:** Google Cloud Arcade Facilitator, guiding learners with hands-on cloud labs.
+- 🔧 **Community Spirit:** Active contributor, always up for tech exploration and collaborative learning.
 
 ---
 
-### 📢 Let's Connect!
+## 🛠️ Tech Stack & Tools
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter]()
-- 🎥 [YouTube]([https://www.youtube.com/your-channel](https://www.youtube.com/@drabhishek.5460))
-- 🌐 [Telegram]()
+- **Cloud Platforms:** Google Cloud (GCP), Firebase
+- **Security:** IAM, Network Security, Cloud Security
+- **Languages:** Python, JavaScript
+- **DevOps/Tools:** Docker, Terraform, Kubernetes (learning)
+- **Databases:** Firestore, SQL, NoSQL
 
-💬 Feel free to reach out for collaborations, discussions, or anything tech-related!
+---
 
-🚀 Happy Coding! 🚀
+## 🌐 Connect With Me
+
+[![Telegram Channel](https://img.shields.io/badge/-Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+gBcgRTlZLyM4OGI1)
+[![Telegram Group](https://img.shields.io/badge/-Telegram%20Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+RujS6mqBFawzZDFl)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@drabhishek.5460?sub_confirmation=1)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drabhishek.5460/)
+[![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DAbhishek5460)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+
+---
+
+> 💬 _Let’s collaborate, discuss tech, or just say hi! Always happy to connect with fellow cloud explorers._
+
+---
+
+**Happy Coding and Cloud Building! 🚀**
